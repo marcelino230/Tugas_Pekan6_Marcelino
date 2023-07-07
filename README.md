@@ -2,8 +2,7 @@
 
 ## Cucumber UI Automation Testing
 
-- The document for Cucumber UI Testing Test Scenario and Test Steps can be found [here](https://docs.google.com/spreadsheets/d/1ilLLHK_g5EGWoekWs_MtY0s-D7FVgWhPOZ8Smq_Z5Xw/edit?usp=sharing)
+- The document for Cucumber UI Testing Test Scenario and Test Steps can be found [here](https://docs.google.com/spreadsheets/d/1ogm5BI8vd-3PNPpdSbUA0X3i6qLLFu5br5fFuVwLT7k/edit?usp=sharing)
 
-- Video recordings of the automation process for the Create Category scenario can be found [here](https://drive.google.com/file/d/19DH0dNRMGMGESO5HBX-L7Se29wMaNXSW/view?usp=sharing)
-
-- Screenshots of the test results for Create Category scenario can be found [here](https://drive.google.com/drive/folders/1y3dMomUf_6gHHt00y2MMfBLSyYI21ZqC?usp=sharing)
+- ScreenShoot 
+[image](https://github.com/marcelino230/Tugas_Pekan6_Marcelino/blob/main/ss_hasil.png)
